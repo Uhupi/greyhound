@@ -1,2 +1,6 @@
 *.pdf
 .claude
+
+# .NET build output
+bin/
+obj/
